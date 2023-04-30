@@ -1,2 +1,3 @@
 # quant424
-An empirical study on fundamental alphas aggregations
+
+An Empirical Study on Fundamental Alphas and Aggregations
