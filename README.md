@@ -43,4 +43,5 @@ An Empirical Study on Fundamental Alphas and Aggregations
 ```
 
 # 说明
-本报告使用github作为仓库地址，详情可见[这里](https://github.com/Silkdust/quant424)。此外，本研究所使用的详细回测结果已上传到阿里云盘，详情可点击[这里](https://www.aliyundrive.com/s/j2GAcXna8id)查看。
+本报告使用github作为仓库地址，详情可见[这里](https://github.com/Silkdust/quant424)。此外，本研究所使用的详细回测结果已上传到阿里云盘，详情可点击[这里](
+https://www.aliyundrive.com/s/XGJJLKSDEXM)查看。
